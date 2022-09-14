@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ListaDeCompras-CursoCsharp22/1.0.0": {
+        "runtime": {
+          "ListaDeCompras-CursoCsharp22.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ListaDeCompras-CursoCsharp22/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

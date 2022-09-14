@@ -1,0 +1,15 @@
+C:\Users\SETA\dev\ListaDeCompras-CursoCsharp22\bin\Debug\net6.0\ListaDeCompras-CursoCsharp22.exe
+C:\Users\SETA\dev\ListaDeCompras-CursoCsharp22\bin\Debug\net6.0\ListaDeCompras-CursoCsharp22.deps.json
+C:\Users\SETA\dev\ListaDeCompras-CursoCsharp22\bin\Debug\net6.0\ListaDeCompras-CursoCsharp22.runtimeconfig.json
+C:\Users\SETA\dev\ListaDeCompras-CursoCsharp22\bin\Debug\net6.0\ListaDeCompras-CursoCsharp22.dll
+C:\Users\SETA\dev\ListaDeCompras-CursoCsharp22\bin\Debug\net6.0\ListaDeCompras-CursoCsharp22.pdb
+C:\Users\SETA\dev\ListaDeCompras-CursoCsharp22\obj\Debug\net6.0\ListaDeCompras-CursoCsharp22.csproj.AssemblyReference.cache
+C:\Users\SETA\dev\ListaDeCompras-CursoCsharp22\obj\Debug\net6.0\ListaDeCompras-CursoCsharp22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SETA\dev\ListaDeCompras-CursoCsharp22\obj\Debug\net6.0\ListaDeCompras-CursoCsharp22.AssemblyInfoInputs.cache
+C:\Users\SETA\dev\ListaDeCompras-CursoCsharp22\obj\Debug\net6.0\ListaDeCompras-CursoCsharp22.AssemblyInfo.cs
+C:\Users\SETA\dev\ListaDeCompras-CursoCsharp22\obj\Debug\net6.0\ListaDeCompras-CursoCsharp22.csproj.CoreCompileInputs.cache
+C:\Users\SETA\dev\ListaDeCompras-CursoCsharp22\obj\Debug\net6.0\ListaDeCompras-CursoCsharp22.dll
+C:\Users\SETA\dev\ListaDeCompras-CursoCsharp22\obj\Debug\net6.0\refint\ListaDeCompras-CursoCsharp22.dll
+C:\Users\SETA\dev\ListaDeCompras-CursoCsharp22\obj\Debug\net6.0\ListaDeCompras-CursoCsharp22.pdb
+C:\Users\SETA\dev\ListaDeCompras-CursoCsharp22\obj\Debug\net6.0\ListaDeCompras-CursoCsharp22.genruntimeconfig.cache
+C:\Users\SETA\dev\ListaDeCompras-CursoCsharp22\obj\Debug\net6.0\ref\ListaDeCompras-CursoCsharp22.dll
