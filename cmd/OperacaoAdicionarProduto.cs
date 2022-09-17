@@ -18,8 +18,16 @@ public static class OperacaoAdicionarProduto {
         var nomeDoProduto = Console.ReadLine();
         Console.WriteLine("Categoria do produto (0 - Mercado, 1 - Escritorio, 2 - Manutenção):");
         var categoriaDoProdutoConsole = Console.ReadLine();
-        var categoriaDoProduto = (CategoriaDoProduto)Enum.Parse(typeof(CategoriaDoProduto), categoriaDoProdutoConsole); 
+        Enum.TryParse<CategoriaDoProduto>(categoriaDoProdutoConsole, out CategoriaDoProduto categoriaDoProduto);
         var produto = new Produto(nomeDoProduto,categoriaDoProduto);
-        listaDesejada.Adicionar(produto);
+        if(!produto.Valido()){
+            foreach(var item in produto.Errors) {
+                Console.WriteLine(item);
+            }
+        }
+        else{
+            listaDesejada.Adicionar(produto);
+        }
+            
     }
 }

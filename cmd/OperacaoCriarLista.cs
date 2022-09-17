@@ -10,11 +10,16 @@ namespace   Cmd;
             var nome = Console.ReadLine();
             Console.WriteLine("Data desejada: ");
             var dataDesejada = Console.ReadLine();
-            var dataDesejadaConvertida = DateTime.Parse(dataDesejada);
+           DateTime.TryParse(dataDesejada, out var dataDesejadaConvertida);
             var lista = new Lista(nome, dataDesejadaConvertida);
+            if(!lista.Valido()){
+                foreach(var item in lista.Errors) {
+                    Console.WriteLine(item);
+                }
+                OperacaoInicial.Executar();
+            }
             ListaRepositorio.Adicionar(lista);
             Console.WriteLine($"Lista {lista.Nome} criada para a data {lista.DataDesejadaDaCompra} ");
-
             OperacaoInicial.Executar();
         }
     }
